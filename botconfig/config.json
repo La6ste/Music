@@ -1,0 +1,28 @@
+{
+   "token": "OTExMzc2NTk3OTA1NDQwODE5.YZgfmQ.CsZtH3JJTZjHDQqmalsx4v8kX-I",
+   "prefix": "!",
+   "ownerIDS": [
+      "359325985356906499"
+   ],
+   
+   "status": {
+      "text": "{prefix}help | Support: https://discord.gg/DakeGmnECF",
+      "text2": "Created by L'a6sté",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lavalinknl.ml",
+            "port": 2333,
+            "password": "Raccoon"
+         }
+      ]
+   },
+
+   "spotify": {
+      "clientID": "49f0e6faf93e49009259f61e518a995c",
+      "clientSecret": "c41046c02c0142e3b24f99b18ecf00e1"
+   }
+}
